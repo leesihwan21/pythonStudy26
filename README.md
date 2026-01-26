@@ -8,4 +8,5 @@ service 에 crud 클래스 생성 -> 6번과 상동함. (같다)
 main.py 생성
 __init__.py 패키징
 service 에 메서드 생성!1 (함수)
-main 메뉴 구현 (주메뉴 구현) ex if __name__ = "main": main()..
+main 메뉴 구현 (주메뉴 구현) 
+ex if __name__ = "main": main()..
